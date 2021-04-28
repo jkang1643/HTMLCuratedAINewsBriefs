@@ -1,16 +1,11 @@
 import newspaper
 from newspaper import Article
 import nltk
-import csv
 from datetime import date
 import spacy
 import pandas as pd
 import numpy as np
 from django.shortcuts import render
-import requests
-from bs4 import BeautifulSoup
-from pretty_html_table import build_table
-import os
 
 nltk.download('punkt')
 
