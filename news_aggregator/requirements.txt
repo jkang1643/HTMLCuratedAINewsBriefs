@@ -1,13 +1,14 @@
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+beautifulsoup4 == 4.9.3
 DateTime==4.3
 Django==3.2
 Flask==1.1.2
 gunicorn==20.1.0
 newspaper3k==0.2.8
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-pandas @ file:///opt/concourse/worker/volumes/live/f14cf8c4-c564-4eff-4b17-158e90dbf88a/volume/
-numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+nltk == 3.6.2
+pandas == 1.2.4
+numpy == 1.19.2 
+numpydoc ==1.1.0 
 spacy==3.0.6
 spacy-legacy==3.0.5
+virtualenv==20.4.4
 
